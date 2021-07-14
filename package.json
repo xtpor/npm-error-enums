@@ -10,7 +10,12 @@
     "typedoc": "typedoc src/index.ts",
     "build": "tsc"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtpor/npm-error-enums"
+  },
+  "homepage": "https://xtpor.github.io/npm-error-enums/index.html",
+  "keywords": ["enum", "result", "option", "error", "error handling"],
   "author": "Tintin Ho <me@tintinho.net>",
   "license": "MIT",
   "devDependencies": {
